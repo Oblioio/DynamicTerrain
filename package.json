@@ -40,7 +40,7 @@
     "imagemin-webpack-plugin": "^2.3.0",
     "mini-css-extract-plugin": "^0.8.0",
     "mustache-loader": "^1.4.1",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "noisejs-umd": "^1.0.0",
     "normalize.css": "^8.0.0",
     "pngjs": "^3.4.0",
